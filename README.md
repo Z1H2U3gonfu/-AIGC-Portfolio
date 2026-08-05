@@ -9,7 +9,7 @@
 本仓库用于存放本人相关项目的成果展示与阶段性记录。
 **2026年8月3日更新：** [证源·云验证操作日志](/docs/cloud-verification-log.md)
 📫 合作/交流：可通过GitHub Issues或在本仓库中直接提交流联系。
-
+https://github.com/Z1H2U3gonfu/-AIGC-Portfolio
 ## 如何使用
 
 1. 阅读 [《证源·DeepSeek API接入验证记录》](https://github.com/Z1H2U3gonfu/-AIGC-Portfolio/blob/main/DeepSeek%20API%20%E6%8E%A5%E5%85%A5%E9%AA%8C%E8%AF%81%E8%AE%B0%E5%BD%95%E4%B8%8E%E7%A1%AE%E6%9D%83%E6%8A%A5%E5%91%8A)，了解方案逻辑
