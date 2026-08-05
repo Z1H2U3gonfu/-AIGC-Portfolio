@@ -13,5 +13,5 @@ https://github.com/Z1H2U3gonfu/-AIGC-Portfolio
 ## 如何使用
 
 1. 阅读 [《证源·DeepSeek API接入验证记录》](https://github.com/Z1H2U3gonfu/-AIGC-Portfolio/blob/main/DeepSeek%20API%20%E6%8E%A5%E5%85%A5%E9%AA%8C%E8%AF%81%E8%AE%B0%E5%BD%95%E4%B8%8E%E7%A1%AE%E6%9D%83%E6%8A%A5%E5%91%8A)，了解方案逻辑
-2. 查看 [《星喵·赛博宇航》证据包](https://github.com/Z1H2U3gonfu/-AIGC-Portfolio/blob/main/README.md)，理解输出结构
+2. 2. 查看 [《星喵·赛博宇航》证据包](https://github.com/Z1H2U3gonfu/-AIGC-Portfolio/blob/main/star-cat-evidence.md)
 3. 如有需要，可自行调用DeepSeek API复现验证过程（参考仓库中的调用记录）
