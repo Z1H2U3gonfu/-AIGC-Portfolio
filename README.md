@@ -1,3 +1,4 @@
+**2026年8月3日更新：** 证源方案已完成 API 环境下的首次真实验证 → [查看验证记录](https://github.com/Z1H2U3gonfu/-AIGC-Portfolio/blob/main/DeepSeek%20API%20%E6%8E%A5%E5%85%A5%E9%AA%8C%E8%AF%81%E8%AE%B0%E5%BD%95%E4%B8%8E%E7%A1%AE%E6%9D%83%E6%8A%A5%E5%91%8A)
 **📌 最新更新（2026年8月3日）：** 证源方案已完成 API 环境下的首次真实验证 → [查看验证记录](/docs/api-verification-20260803.md)
 
 ---
